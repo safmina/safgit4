@@ -1,0 +1,3 @@
+PS C:\Users\LENOVO\Desktop\git1> git add 1.txt
+PS C:\Users\LENOVO\Desktop\git1> git commit -m "lll"
+On branch safmis
